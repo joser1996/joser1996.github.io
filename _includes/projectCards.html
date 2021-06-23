@@ -1,6 +1,7 @@
 {% for item in site.data.projectCards %}
 <div class="projectCards">
 	<h2>{{ item.name }}</h2>
+	<h3 class="projectStatus">{{ item.status }}</h3>
 	<p> {{ item.desc }}</p>
 	{% if item.link %}
 		<a href="{{ item.link }}" target="_blank">Link To Project</a>

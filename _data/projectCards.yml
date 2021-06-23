@@ -20,7 +20,7 @@
     being created using Reactl. Backend is implemented using Node and DB being
     used is SQLite.
 - name: Youtube 2 Spotify Playlist Generator
-  status: V1 Done. Plan On Working on V2
+  status: Ongoing
   link: null
   repo: https://github.com/joser1996/Y2SPlaylist
   desc: |
@@ -33,4 +33,6 @@
   link: null
   repo: https://github.com/joser1996/AnimeAlarm
   desc: |
-    Desc. goes here
+    IOS Application that takes current airing anime season and displays inormation
+    such as date/time of next airing episode, synopsis, etc. User can also use app 
+    to create local notifications that will notify user when next epidode is airing.
