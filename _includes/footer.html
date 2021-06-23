@@ -1,0 +1,7 @@
+<footer>
+	<ul>
+		{% for item in site.data.footer %}
+			<li><a href="{% if item.name == "email" %}mailto: {% endif %}{{ item.link }}"> {{  item.name }} </a></li>
+		{% endfor %}
+	</ul>
+</footer>
