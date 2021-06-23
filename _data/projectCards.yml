@@ -1,23 +1,36 @@
 - name: None To Mourn
+  status: Complete
+  link: null
+  repo: https://github.com/joser1996/ECS193A-B
   desc: |
-    This is a multi-line string.Playlist
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    The purpose of this project, Senior Design, was to become familiar with creating
+    projects on IOS. The goal set by the client was to create a multiplayer
+    game that implements AR Technology. The game we, my team and I, created
+    was a base defending game. The player can set down a base on a flat surface
+    and must defend it from oncoming zombies.
+
 - name: Lango
+  status: Ongoing
+  link: null
+  repo: https://github.com/joser1996/Lango
   desc: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Fullstack project. I'm creating a webapplication that will allow users
+    to create study decks to learn new vocabulary in different languages.
+    Translations will be obatined using Google's Translate API. Front end is
+    being created using Reactl. Backend is implemented using Node and DB being
+    used is SQLite.
 - name: Youtube 2 Spotify Playlist Generator
+  status: V1 Done. Plan On Working on V2
+  link: null
+  repo: https://github.com/joser1996/Y2SPlaylist
   desc: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Application built using python. Purpose is to allow user to take a public
+    youtube playlist and generate a spotify playlist based on the titles of the
+    videos. First Version works, but isn't user friendly. Intend to make it more
+    user friendly so other people aside from the developer, me, can use it.
+- name: Anime Reminder App
+  status: Complete
+  link: null
+  repo: https://github.com/joser1996/AnimeAlarm
+  desc: |
+    Desc. goes here
