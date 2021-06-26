@@ -3,8 +3,9 @@
 		{% for item in site.data.navigation %}
 			<li><a href="{{ item.link }}" {% if page.url == item.link %} class="current"{% endif %}> {{ item.name }} </a></li>
 		{% endfor %}
-		<li><button id="darkModeButton" onclick="toggleDarkMode()">Toggle Mode</button>  </li>
+			<li><input id = "sunMoon" type="image" src="/assets/images/sun.png"/ onclick="toggleDarkMode()"></li>
 	</ul>
 </nav>
 
 
+<!-- <li><button id="darkModeButton" onclick="toggleDarkMode()">Toggle Mode</button>  </li> -->

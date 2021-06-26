@@ -10,7 +10,15 @@ function toggleDarkMode() {
 	} else {
 		myStorage.setItem('mode', 'light');
 	}
-	console.log(myStorage);
+
+	var image = document.getElementById('sunMoon');
+	if(isDark()) {
+		//change to moon icon
+		image.src = "/assets/images/moon.png"
+	} else {
+		//change to sun icon
+		image.src = "/assets/images/sun.png"
+	}
 }
 
 function updateViewMode() {
