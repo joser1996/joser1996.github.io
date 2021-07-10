@@ -20,7 +20,7 @@
     being created using Reactl. Backend is implemented using Node and DB being
     used is SQLite.
 - name: Youtube 2 Spotify Playlist Generator
-  status: Ongoing
+  status: Version 0.1 Done
   link: null
   repo: https://github.com/joser1996/Y2SPlaylist
   desc: |
