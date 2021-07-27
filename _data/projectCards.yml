@@ -8,7 +8,6 @@
     game that implements AR Technology. The game we, my team and I, created
     was a base defending game. The player can set down a base on a flat surface
     and must defend it from oncoming zombies.
-
 - name: Lango
   status: Ongoing
   link: null
@@ -20,14 +19,13 @@
     being created using Reactl. Backend is implemented using Node and DB being
     used is SQLite.
 - name: Youtube 2 Spotify Playlist Generator
-  status: Version 0.1 Done
+  status: Version 0.2 Done
   link: null
   repo: https://github.com/joser1996/Y2SPlaylist
   desc: |
     Application built using python. Purpose is to allow user to take a public
     youtube playlist and generate a spotify playlist based on the titles of the
-    videos. First Version works, but isn't user friendly. Intend to make it more
-    user friendly so other people aside from the developer, me, can use it.
+    videos. See currnt version on github
 - name: Anime Reminder App
   status: Complete
   link: null
