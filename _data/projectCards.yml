@@ -25,7 +25,7 @@
   desc: |
     Application built using python. Purpose is to allow user to take a public
     youtube playlist and generate a spotify playlist based on the titles of the
-    videos. See currnt version on github
+    videos. See current version on github
 - name: Anime Reminder App
   status: Complete
   link: null
