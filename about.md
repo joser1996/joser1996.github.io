@@ -30,8 +30,7 @@ something out of them.
 
 One of the things that I am most proud of is my tenacity and will to get things
 done. For example,I will not stop until I simply finish, but finish it **well**.
-If I do somehting I might as well do it right. Although qulaity is a concern I
-sometihmes might take it to far, but I see this as a good thing. **TODO: Work Well and communication**
+If I do somehting I might as well do it right.
 
 My major goal currently is obtaining a job, because that will allow me to
 further grow as a developer while hopefully contribute to something worthwhile.
