@@ -27,6 +27,19 @@
     - express
     - SQLite
 
+- name: Weather App
+  status: Ongoing
+  link: https://weather-app-joser1996.vercel.app/
+  repo: https://github.com/joser1996/weather-app
+  desc: |
+    Simple Weather application built using React. Currently gets current
+    weather of city in the United States using openweather. By default will
+    show weather of current location, however browser must have permission
+    to access users location. Plan to add 5 day weather forecast later.
+  tags:
+    - js
+    - react
+
 - name: Youtube 2 Spotify Playlist Generator
   status: Version 0.2 Done
   link: null

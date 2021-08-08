@@ -92,13 +92,15 @@ input {
 }
 
 .card-footer a {
+	padding-top: 5px;
 	padding-right: 25px;
 }
 
 .lang-tag {
-	padding: 0 15px;
+	padding: 5px 15px;
 	margin: 0 10px;
 	color: white;
+	border-radius: calc(0.5 * 100px);
 }
 
 .js {
