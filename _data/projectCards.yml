@@ -8,6 +8,9 @@
     game that implements AR Technology. The game we, my team and I, created
     was a base defending game. The player can set down a base on a flat surface
     and must defend it from oncoming zombies.
+  tags:
+    - swift
+
 - name: Lango
   status: Ongoing
   link: null
@@ -18,6 +21,12 @@
     Translations will be obatined using Google's Translate API. Front end is
     being created using Reactl. Backend is implemented using Node and DB being
     used is SQLite.
+  tags:
+    - js
+    - react
+    - express
+    - SQLite
+
 - name: Youtube 2 Spotify Playlist Generator
   status: Version 0.2 Done
   link: null
@@ -25,7 +34,10 @@
   desc: |
     Application built using python. Purpose is to allow user to take a public
     youtube playlist and generate a spotify playlist based on the titles of the
-    videos. See current version on github
+    videos. See current version on github.
+  tags:
+    - python
+
 - name: Anime Reminder App
   status: Complete
   link: null
@@ -34,3 +46,5 @@
     IOS Application that takes current airing anime season and displays inormation
     such as date/time of next airing episode, synopsis, etc. User can also use app 
     to create local notifications that will notify user when next epidode is airing.
+  tags:
+    - swift

@@ -7,7 +7,12 @@
 		<a href="{{ item.link }}" target="_blank">Link To Project</a>
 	{% endif %}
 	{% if item.repo %}
-		<a href="{{ item.repo }}" target="_blank">Repository</a>
+		<div class="card-footer">
+			<a href="{{ item.repo }}" target="_blank">Repository</a>
+			{% for tag in item.tags %}
+				<div class="lang-tag {{ tag }}">{{ tag }}</div>
+			{% endfor %}
+		</div>
 	{% endif %}
 </div>	
 {% endfor %}

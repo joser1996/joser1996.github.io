@@ -83,3 +83,45 @@ input {
 .dark p {
 	color:  #e6e6e6;
 }
+
+
+/* card footer */
+.card-footer {
+	display: flex;
+	flex-direction: flex-start;
+}
+
+.card-footer a {
+	padding-right: 25px;
+}
+
+.lang-tag {
+	padding: 0 15px;
+	margin: 0 10px;
+	color: white;
+}
+
+.js {
+	background-color: #d408b5;
+}
+
+.react {
+	background-color: #145bcc;
+}
+
+.express {
+	background-color: #1c8008;
+}
+
+.SQLite {
+	background-color: #2c0580;
+}
+
+.python {
+	color: black;
+	background-color: #e2ed0e;
+}
+
+.swift {
+	background-color: #de070a;
+}
