@@ -46,6 +46,7 @@ function showModal(itemName) {
 }
 
 window.onclick = function(e) {
+	console.log("Target: ", e.target);
 	var modal = document.getElementById("myModal");
 	if (e.target == modal) {
 		modal.style.display = "none";

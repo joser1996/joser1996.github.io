@@ -2,7 +2,14 @@
 <div id="myModal{{ item.id }}" class="modal">
 	<div class="modal-content">
 		<span class="close" onclick="closeModal({{ item.id }})">&times;</span>
-		<p>{{ item.todo }}</p>
+		<h1>{{ item.name }}</h1>
+		<h2>To Do's</h2>
+		<ul>
+			{% for todo in item.todo %}
+				<li>{{ todo }}</li>
+			{% endfor %}
+		</ul>
+		<h2>Current Status</h2>
 		<p>{{ item.current }}</p>
 	</div>
 </div>

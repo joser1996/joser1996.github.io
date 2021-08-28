@@ -130,6 +130,7 @@ input {
 
 /* Modal styling */
 .modal {
+	color: black;
 	display: none;
 	position: fixed; /* Stay in place */
 	z-index: 1; /* Sit on top */
@@ -140,6 +141,10 @@ input {
 	overflow: auto; /* Enable scroll if needed */
 	background-color: rgb(0,0,0); /* Fallback color */
 	background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+.modal p {
+	color: black;
 }
 
 /* Modal Content/Box */
