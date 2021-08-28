@@ -1,5 +1,6 @@
 
 - name: Anime Reminder App
+  id: 1
   status: Complete
   link: null
   repo: https://github.com/joser1996/AnimeAlarm
@@ -11,6 +12,7 @@
     - swift
 
 - name: Lango
+  id: 2
   status: Ongoing - 1.0.0 alpha
   link: https://lango-client-deploy.vercel.app/
   repo: https://github.com/joser1996/lango-client-deploy
@@ -27,6 +29,7 @@
     - SQLite
 
 - name: Youtube 2 Spotify Playlist Generator
+  id: 3
   status: Version 0.2 Done
   link: null
   repo: https://github.com/joser1996/Y2SPlaylist
@@ -38,6 +41,7 @@
     - python
 
 - name: Weather App
+  id: 4
   status: Ongoing
   link: https://weather-app-joser1996.vercel.app/
   repo: https://github.com/joser1996/weather-app
@@ -51,6 +55,7 @@
     - react
 
 - name: None To Mourn
+  id: 5
   status: Complete
   link: null
   repo: https://github.com/joser1996/ECS193A-B

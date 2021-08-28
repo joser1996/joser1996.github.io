@@ -38,8 +38,10 @@ function isDark() {
 }
 
 
-function showModal() {
-	var modal = document.getElementById("myModal");
+function showModal(itemName) {
+	var idStr = "myModal" + itemName;
+	console.log("Item that called was: ", idStr);
+	var modal = document.getElementById(idStr);
 	modal.style.display = "block";
 }
 
@@ -50,7 +52,8 @@ window.onclick = function(e) {
 	}
 }
 
-function closeModal() {
-	var modal = document.getElementById("myModal");
+function closeModal(id) {
+	var idStr = "myModal" + id;
+	var modal = document.getElementById(idStr);
 	modal.style.display = "none";
 }
