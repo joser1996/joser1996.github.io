@@ -36,3 +36,21 @@ function isDark() {
 		return false;
 	}
 }
+
+
+function showModal() {
+	var modal = document.getElementById("myModal");
+	modal.style.display = "block";
+}
+
+window.onclick = function(e) {
+	var modal = document.getElementById("myModal");
+	if (e.target == modal) {
+		modal.style.display = "none";
+	}
+}
+
+function closeModal() {
+	var modal = document.getElementById("myModal");
+	modal.style.display = "none";
+}
