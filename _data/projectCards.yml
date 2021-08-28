@@ -1,20 +1,19 @@
-- name: None To Mourn
+
+- name: Anime Reminder App
   status: Complete
   link: null
-  repo: https://github.com/joser1996/ECS193A-B
+  repo: https://github.com/joser1996/AnimeAlarm
   desc: |
-    The purpose of this project, Senior Design, was to become familiar with creating
-    projects on IOS. The goal set by the client was to create a multiplayer
-    game that implements AR Technology. The game we, my team and I, created
-    was a base defending game. The player can set down a base on a flat surface
-    and must defend it from oncoming zombies.
+    IOS Application that takes current airing anime season and displays inormation
+    such as date/time of next airing episode, synopsis, etc. User can also use app 
+    to create local notifications that will notify user when next epidode is airing.
   tags:
     - swift
 
 - name: Lango
-  status: Ongoing
-  link: null
-  repo: https://github.com/joser1996/Lango
+  status: Ongoing - 1.0.0 alpha
+  link: https://lango-client-deploy.vercel.app/
+  repo: https://github.com/joser1996/lango-client-deploy
   desc: |
     Fullstack project. I'm creating a webapplication that will allow users
     to create study decks to learn new vocabulary in different languages.
@@ -26,6 +25,17 @@
     - react
     - express
     - SQLite
+
+- name: Youtube 2 Spotify Playlist Generator
+  status: Version 0.2 Done
+  link: null
+  repo: https://github.com/joser1996/Y2SPlaylist
+  desc: |
+    Application built using python. Purpose is to allow user to take a public
+    youtube playlist and generate a spotify playlist based on the titles of the
+    videos. See current version on github.
+  tags:
+    - python
 
 - name: Weather App
   status: Ongoing
@@ -40,24 +50,15 @@
     - js
     - react
 
-- name: Youtube 2 Spotify Playlist Generator
-  status: Version 0.2 Done
-  link: null
-  repo: https://github.com/joser1996/Y2SPlaylist
-  desc: |
-    Application built using python. Purpose is to allow user to take a public
-    youtube playlist and generate a spotify playlist based on the titles of the
-    videos. See current version on github.
-  tags:
-    - python
-
-- name: Anime Reminder App
+- name: None To Mourn
   status: Complete
   link: null
-  repo: https://github.com/joser1996/AnimeAlarm
+  repo: https://github.com/joser1996/ECS193A-B
   desc: |
-    IOS Application that takes current airing anime season and displays inormation
-    such as date/time of next airing episode, synopsis, etc. User can also use app 
-    to create local notifications that will notify user when next epidode is airing.
+    The purpose of this project, Senior Design, was to become familiar with creating
+    projects on IOS. The goal set by the client was to create a multiplayer
+    game that implements AR Technology. The game we, my team and I, created
+    was a base defending game. The player can set down a base on a flat surface
+    and must defend it from oncoming zombies.
   tags:
     - swift
