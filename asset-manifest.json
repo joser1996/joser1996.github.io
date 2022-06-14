@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6f6fe3e4.css",
+    "main.js": "/static/js/main.35a4230a.js",
+    "static/media/Lango.png": "/static/media/Lango.979588bf46e2f4e825e9.png",
+    "static/media/Anime.jpeg": "/static/media/Anime.c74b2decea3c3b659eaa.jpeg",
+    "static/media/Algo.jpeg": "/static/media/Algo.4081194ed358a75c8842.jpeg",
+    "static/media/c-logo.png": "/static/media/c-logo.2b2276395e116be80813.png",
+    "static/media/QtStopwatch.png": "/static/media/QtStopwatch.d25e5697ed3f14c4049e.png",
+    "static/media/resume.pdf": "/static/media/resume.cad4bf6c4b208975278d.pdf",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/qt.png": "/static/media/qt.92c45eefebf7979648e5.png",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/Y2S.png": "/static/media/Y2S.1a44455f472bc556fbec.png",
+    "static/media/swift.png": "/static/media/swift.efa547d95655c90f5181.png",
+    "index.html": "/index.html",
+    "main.6f6fe3e4.css.map": "/static/css/main.6f6fe3e4.css.map",
+    "main.35a4230a.js.map": "/static/js/main.35a4230a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f6fe3e4.css",
+    "static/js/main.35a4230a.js"
+  ]
+}
